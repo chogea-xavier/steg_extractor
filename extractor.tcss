@@ -1,0 +1,21 @@
+Screen {
+    align: center middle;
+}
+
+Vertical {
+    width: 80%;
+    height: auto;
+    border: thick $accent;
+    padding: 1 2;
+}
+
+Input {
+    margin-bottom: 1;
+}
+
+.result {
+    margin-top: 1;
+    padding: 1;
+    background: $surface;
+    border: solid $primary;
+}
